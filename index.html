@@ -110,7 +110,7 @@
           fetch('https://raw.githubusercontent.com/dillzylinks/pages.dev/refs/heads/main/id.json';)
             .then(res => res.json())
             .then(data => {
-              const targetData = data.iframes.find(item => item.id === id);
+              const targetData = data.find(item => item.id === id);
               if (targetData && targetData.iframeSrc) {
                 iframe.src = targetData.iframeSrc;
 
