@@ -437,9 +437,30 @@
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-18T09:00:42.000Z"
+  },
+    {
+    "id": "S1",
+    "name": "S1 - Sony Sports 1 HD, English Live",
+    "type": "iframe",
+    "iframeSrc": "https://cricbox.pages.dev/player/PR?url=https://akamaii.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1792538708~acl=/*~id=90661191347665940698526399464590~hmac=8ef1d2dcca6f71105fc7c70bea38adb42977c06c092b90a50ce1502ba9a7378f",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=S1",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=S1",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-20T17:47:41.990Z"
+  },
+  {
+    "id": "S2",
+    "name": "S2 - Sony Sports 2 HD, Premium Live Events",
+    "type": "iframe",
+    "iframeSrc": "https://cricbox.pages.dev/player/PR?url=https://akamaii.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1792538708~acl=/*~id=90661191347665940698526399464590~hmac=8ef1d2dcca6f71105fc7c70bea38adb42977c06c092b90a50ce1502ba9a7378f",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=S2",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=S2",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-20T17:46:26.538Z"
   }
-]  
-  
+]
 
   
 
