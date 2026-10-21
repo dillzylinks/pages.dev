@@ -482,7 +482,30 @@
     "logourl": "",
     "updated_at": "2026-10-20T17:47:16.202Z"
   },
+    {
+    "id": "S4X",
+    "name": "S4X - Sony Liv 4, Telugu Commentary",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=STENTU",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=S4X",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=S4X",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-18T09:00:50.000Z"
+  },
+  {
+    "id": "S5",
+    "name": "S5 - Sony Liv 5, English Premium Coverage",
+    "type": "iframe",
+    "iframeSrc": "https://cricbox.pages.dev/player/PR?url=https://akamaii.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1792538708~acl=/*~id=90661191347665940698526399464590~hmac=8ef1d2dcca6f71105fc7c70bea38adb42977c06c092b90a50ce1502ba9a7378f",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=S5",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=S5",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-20T17:48:19.467Z"
+  },
 ]
+  
   
  
 
