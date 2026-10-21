@@ -459,8 +459,32 @@
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-20T17:46:26.538Z"
-  }
+  },
+    {
+    "id": "S4",
+    "name": "S4 - Sony Liv 4, Tamil Commentary",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=STENT",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=S4",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=S4",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-18T09:00:49.000Z"
+  },
+  {
+    "id": "S3",
+    "name": "S3 - Sony Liv 3, Hindi Commentary",
+    "type": "iframe",
+    "iframeSrc": "https://cricbox.pages.dev/player/PR?url=https://akamaii.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1792538708~acl=/*~id=90661191347665940698526399464590~hmac=8ef1d2dcca6f71105fc7c70bea38adb42977c06c092b90a50ce1502ba9a7378f",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=S3",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=S3",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-20T17:47:16.202Z"
+  },
 ]
+  
+ 
 
   
 
