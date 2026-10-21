@@ -382,7 +382,18 @@
     "iframeSrc": "https://allrounder3-0.pages.dev/sony-2",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+  },
+  {
+  "id": "FC",
+  "name": "FC - Fancode India, Full HD HLS Stream",
+  "iframeSrc": "https://cricbox.pages.dev/player/PR?url=https://akamaii.lovable.app/api/public/px/fancode?url=https%3A%2F%2Fin-mc-flive.fancode.com%2Fmumbai%2F4249696_english_hls_d51b02bd8369074_1ta-di_h264%2F720p.m3u8%3Fhdntl%3DExpires%3D1792666501~_GO%3DGenerated~acl%3D%2Fmumbai%2F4249696_english_hls_d51b02bd8369074_1ta-di_h264%2F*~SessionID%3Dfc-app_sportsguruand_watcho_6d9f77d1-e924-40~Signature%3DASgJGVBRCocdFyjq9CbbId_I9nRNVzzakVoOk17rLDmmham6wMU1jBGHs9YPTM--N14yu-4vUzsPzdUlmVjs1k07fxID",
+  "category": "Cricket",
+  "logourl": "",
+  "updated_at": "2026-10-21T11:22:31.371Z"
   }
-]
+]  
+
+  
+
 
 
