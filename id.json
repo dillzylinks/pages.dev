@@ -394,4 +394,13 @@
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=SS",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=SS"
   }
+  {
+    "id": "sony-liv",
+    "name": "Star Sports Hindi",
+    "type": "iframe",
+    "iframeSrc": "https://allrounder3-0.pages.dev/sony-2",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+  }
 ]
+
