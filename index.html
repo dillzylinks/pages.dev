@@ -107,7 +107,7 @@
         const iframe = document.getElementById('main-iframe');
 
         if (id) {
-          fetch('https://sonujson-v5.pages.dev/loura.json';)
+          fetch('https://raw.githubusercontent.com/dillzylinks/pages.dev/refs/heads/main/id.json';)
             .then(res => res.json())
             .then(data => {
               const targetData = data.iframes.find(item => item.id === id);
