@@ -514,8 +514,25 @@
     "category": "Entertainment",
     "logourl": "",
     "updated_at": "2026-10-18T09:00:58.000Z"
-    }
-]
+    },
+    {
+    "id": "Hindi",
+    "name": "Hindi - India Vs New Zealand - Every Ball Covered",
+    "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STEN3",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-21T22:08:43.055Z"
+  },
+  {
+    "id": "English",
+    "name": "English - India Vs New Zealand  - Full HD Coverage",
+    "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STEN5",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-21T22:08:28.906Z"
+  }
+    ]
+  
   
   
  
