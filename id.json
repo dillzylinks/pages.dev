@@ -558,8 +558,25 @@
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-21T21:28:30.002Z"
-  }
-    ]
+  },
+  {
+    "id": "savsaus",
+    "name": "SA vs AUS",
+    "type": "iframe",
+    "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HFWWJWH6",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+  },
+  {
+    "id": "engvssl",
+    "name": "ENG vs SL",
+    "type": "iframe",
+    "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HMLGQPBV",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+  } 
+]
+  
   
   
   
