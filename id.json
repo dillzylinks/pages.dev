@@ -518,7 +518,10 @@
     {
     "id": "Hindi",
     "name": "Hindi - India Vs New Zealand - Every Ball Covered",
+    "type": "iframe",
     "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STEN3",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Hindi",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=Hindi",
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-21T22:08:43.055Z"
@@ -526,7 +529,10 @@
   {
     "id": "English",
     "name": "English - India Vs New Zealand  - Full HD Coverage",
+    "type": "iframe",
     "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STEN5",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=English",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=English",
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-21T22:08:28.906Z"
@@ -534,7 +540,10 @@
   {
     "id": "Tamil",
     "name": "Tamil - Live In Tamil, Enjoy Your Language",
+    "type": "iframe",
     "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENT",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Tamil",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=Tamil",
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-21T21:28:33.412Z"
@@ -542,12 +551,16 @@
   {
     "id": "Telugu",
     "name": "Telugu - Live In Telugu, Feel The Match",
+    "type": "iframe",
     "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENTU",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Telugu",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=Telugu",
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-21T21:28:30.002Z"
   }
-]
+    ]
+  
   
   
     
