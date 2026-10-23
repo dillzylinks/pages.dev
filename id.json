@@ -599,8 +599,20 @@
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-23T08:12:27.823Z"
+  },
+  {
+  "id": "TNT",
+  "name": "TNT - Live Events From Discovery Plus",
+  "type": "iframe",
+  "iframeSrc": "https://cricbox.pages.dev/player/drm?url=https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd&keys=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+  "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt",
+  "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt",
+  "category": "Cricket",
+  "logourl": "",
+  "updated_at": "2026-10-23T08:03:37.936Z"
   }
 ]
+  
   
   
   
