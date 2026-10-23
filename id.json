@@ -184,14 +184,6 @@
     "get": "https://hit-counter-theta.vercel.app/api/get?key=asiacup"
   },
   {
-    "id": "willow",
-    "name": "Willow",
-    "type": "iframe",
-    "iframeSrc": "https://matcheslinkz.pages.dev/w",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=willow"
-  },
-  {
     "id": "P1",
     "name": "Willow",
     "type": "iframe",
