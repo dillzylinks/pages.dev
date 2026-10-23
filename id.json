@@ -621,8 +621,20 @@
   "category": "Cricket",
   "logourl": "",
   "updated_at": "2026-10-23T08:02:18.527Z"
+  },
+  {
+  "id": "All",
+  "name": "All - One Stream, All Matches, Live Scores",
+  "type": "iframe",
+  "iframeSrc": "https://cricbox.pages.dev/player/PR?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+  "hit": "https://hit-counter-theta.vercel.app/api/hit?key=all",
+  "get": "https://hit-counter-theta.vercel.app/api/get?key=all",
+  "category": "Cricket",
+  "logourl": "",
+  "updated_at": "2026-10-23T08:02:27.160Z"
   }
 ]
+
   
 
   
