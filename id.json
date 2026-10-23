@@ -656,7 +656,15 @@
   "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=STENTU",
   "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STENTU",
   "get": "https://hit-counter-theta.vercel.app/api/get?key=STENTU"
- }
+ },
+   {
+    "id": "STEN3",
+    "name": "Sony Sports 3 SD",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=STEN3",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN3",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=STEN3"
+   },
 ]
 
   
