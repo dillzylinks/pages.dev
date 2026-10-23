@@ -665,7 +665,16 @@
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN3",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=STEN3"
    },
+   {
+    "id": "STEN5",
+    "name": "Sony Sports 5 SD",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=STEN5",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN5",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=STEN5"
+  }
 ]
+  
 
   
 
