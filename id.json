@@ -574,8 +574,42 @@
     "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HMLGQPBV",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-  } 
+  },
+  {
+    "id": "HIN",
+    "name": "Star Sports Hindi ",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=E2HD",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hin",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=hin",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-23T08:39:41.165Z"
+  },
+  {
+    "id": "ENG",
+    "name": "Star Sports English ",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=E2HD",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=eng",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=eng",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-23T08:39:34.172Z"
+  },
+  {
+    "id": "Willow",
+    "name": "Willow - Premium Cricket, Uninterrupted",
+    "type": "iframe",
+    "iframeSrc": "https://cricbox.pages.dev/player/drm?url=https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd&keys=de4f7619ad148729aeb3fa269c66ac69:39f15c262064e93e317aefeb4d458cf0",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=willow",
+    "category": "Cricket",
+    "logourl": "",
+    "updated_at": "2026-10-23T08:12:27.823Z"
+  }
 ]
+  
   
   
   
