@@ -612,9 +612,25 @@
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Cricbuzz",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=Cricbuzz",
     "updated_at": "2026-10-23T22:08:28.253Z"
+   },
+   {
+     "id": "willow",
+      "name": "Willow",
+      "type": "iframe",
+      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/willow",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=willow"
+   },
+   {
+     
+      "id": "tnt",
+      "name": "TNT Sports",
+      "type": "iframe",
+      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/tnt",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt"
    }
 ]
-  
   
 
   
