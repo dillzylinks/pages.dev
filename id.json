@@ -611,16 +611,14 @@
   "logourl": "",
   "updated_at": "2026-10-23T08:03:37.936Z"
   },
-  {
-  "id": "IOS",
-  "name": "IOS - iPhone And iPad Friendly, Smooth Playback",
-  "type": "iframe",
-  "iframeSrc": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-  "hit": "https://hit-counter-theta.vercel.app/api/hit?key=ios",
-  "get": "https://hit-counter-theta.vercel.app/api/get?key=ios",
-  "category": "Cricket",
-  "logourl": "",
-  "updated_at": "2026-10-23T08:02:18.527Z"
+    {
+    "id": "IOS",
+    "name": "IOS - iPhone And iPad Friendly, Smooth Playback",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=IOS",
+    "category": "Cricket",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=IOS",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=IOS"
   },
   {
   "id": "All",
