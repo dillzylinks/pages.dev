@@ -612,24 +612,26 @@
   "updated_at": "2026-10-23T08:03:37.936Z"
   },
     {
+    "id": "All",
+    "name": "All - One Stream, All Matches, Live Scores",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=All",
+    "category": "Cricket",
+    "logourl": "",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=All",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=All",
+    "updated_at": "2026-10-23T08:02:27.160Z"
+  },
+  {
     "id": "IOS",
     "name": "IOS - iPhone And iPad Friendly, Smooth Playback",
     "type": "iframe",
     "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=IOS",
     "category": "Cricket",
+    "logourl": "",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=IOS",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=IOS"
-  },
-  {
-  "id": "All",
-  "name": "All - One Stream, All Matches, Live Scores",
-  "type": "iframe",
-  "iframeSrc": "https://cricbox.pages.dev/player/PR?url=https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-  "hit": "https://hit-counter-theta.vercel.app/api/hit?key=all",
-  "get": "https://hit-counter-theta.vercel.app/api/get?key=all",
-  "category": "Cricket",
-  "logourl": "",
-  "updated_at": "2026-10-23T08:02:27.160Z"
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=IOS",
+    "updated_at": "2026-10-23T22:18:35.839Z"
   },
   {
   "id": "Willow-2",
