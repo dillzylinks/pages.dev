@@ -670,8 +670,18 @@
     "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=STEN5",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN5",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=STEN5"
-  }
+  },
+    {
+    "id": "Cricbuzz",
+    "name": "Cricbuzz - Live Cricket, Made For Fans",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=Cricbuzz",
+    "category": "Cricket",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Cricbuzz",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=Cricbuzz"
+    }
 ]
+  
   
 
   
