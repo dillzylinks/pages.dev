@@ -448,16 +448,15 @@
     "logourl": "",
     "updated_at": "2026-10-20T17:48:19.467Z"
   },
-    {
+   {
     "id": "SETHD",
-    "name": "SETHD - Sony Set HD, Rohit Sharma Show",
+    "name": "Sony SET HD",
     "type": "iframe",
-    "iframeSrc": "https://matchdekho.pages.dev/player/PR/?url=https://sonyliv-beta.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1791070341~acl=/*~id=76508141478235638358056976133448~hmac=71a0b2715d52551a0019b06ddcc8830274ab416bd9f9b4e952a9d6ac8a33ab28",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=SETHD",
+    "category": "Entertainment",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=SETHD",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=SETHD",
-    "category": "Entertainment",
-    "logourl": "",
-    "updated_at": "2026-10-18T09:00:58.000Z"
+    "updated_at": "2026-10-24T17:23:00.000Z"
     },
     {
     "id": "Hindi",
