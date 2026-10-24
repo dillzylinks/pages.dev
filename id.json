@@ -671,15 +671,16 @@
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN5",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=STEN5"
   },
-    {
+  {
     "id": "Cricbuzz",
     "name": "Cricbuzz - Live Cricket, Made For Fans",
-    "type": "iframe",
-    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=Cricbuzz",
+    "iframeSrc": "https://cricbox.pages.dev/player/drm?url=https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd&keys=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
     "category": "Cricket",
+    "logourl": "",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Cricbuzz",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=Cricbuzz"
-    }
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=Cricbuzz",
+    "updated_at": "2026-10-23T22:08:28.253Z"
+   }
 ]
   
   
