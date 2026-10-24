@@ -104,28 +104,12 @@
     "get": "https://hit-counter-theta.vercel.app/api/get?key=telugu"
   },
   {
-    "id": "willowbycric",
-    "name": "CNTV",
-    "type": "iframe",
-    "iframeSrc": "https://matcheslinkz.pages.dev/wihow",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willowbycric",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=willowbycric"
-  },
-  {
     "id": "ENGVSL",
     "name": "CNTV",
     "type": "iframe",
     "iframeSrc": "https://matcheslinkz.pages.dev/wiow",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=ENGVSL",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=ENGVSL"
-  },
-  {
-    "id": "tnt-sports",
-    "name": "Star Sports",
-    "type": "iframe",
-    "iframeSrc": "https://matcheslinkz.pages.dev/t1",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt-sports",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt-sports"
   },
   {
     "id": "hin",
@@ -150,22 +134,6 @@
     "iframeSrc": "https://matcheslinkz.pages.dev/w2",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=wclfinal",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=wclfinal"
-  },
-  {
-    "id": "willow3",
-    "name": "Fox Sports / Willow 3",
-    "type": "iframe",
-    "iframeSrc": "https://matcheslinkz.pages.dev/Fox",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow3",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=willow3"
-  },
-    {
-    "id": "ten2hd",
-    "name": "TNT Sports 2",
-    "type": "iframe",
-    "iframeSrc": "https://matcheslinkz.pages.dev/Ten2hd",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=ten2hd",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=ten2hd"
   },
   {
     "id": "ten3hd",
@@ -214,14 +182,6 @@
     "iframeSrc": "https://matcheslinkz.pages.dev/ss",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=sky-sports-nz",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=sky-sports-nz"
-  },
-  {
-    "id": "willow-sports",
-    "name": "Willow",
-    "type": "iframe",
-    "iframeSrc": "https://cricketstan.github.io/Willow-Sports/",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow-sports",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=willow-sports"
   },
   {
     "id": "4249223_ENG",
@@ -302,14 +262,6 @@
     "iframeSrc": "https://crickettv.site/sky-nz/player?id=3",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=sky-nz-1",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=sky-nz-1"
-  },
-  {
-    "id": "tnt-1",
-    "name": "TNT Sports 1",
-    "type": "iframe",
-    "iframeSrc": "https://cricketstan.github.io/TNT-1/",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt-1",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt-1"
   },
   {
     "id": "prime-nz",
@@ -588,29 +540,7 @@
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-23T08:39:34.172Z"
-  },
-  {
-    "id": "Willow",
-    "name": "Willow - Premium Cricket, Uninterrupted",
-    "type": "iframe",
-    "iframeSrc": "https://cricbox.pages.dev/player/drm?url=https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd&keys=de4f7619ad148729aeb3fa269c66ac69:39f15c262064e93e317aefeb4d458cf0",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=willow",
-    "category": "Cricket",
-    "logourl": "",
-    "updated_at": "2026-10-23T08:12:27.823Z"
-  },
-  {
-  "id": "TNT",
-  "name": "TNT - Live Events From Discovery Plus",
-  "type": "iframe",
-  "iframeSrc": "https://cricbox.pages.dev/player/drm?url=https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd&keys=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-  "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt",
-  "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt",
-  "category": "Cricket",
-  "logourl": "",
-  "updated_at": "2026-10-23T08:03:37.936Z"
-  },
+    },
     {
     "id": "All",
     "name": "All - One Stream, All Matches, Live Scores",
