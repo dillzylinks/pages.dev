@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Live Stream</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SMZXC121E6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '');
+    </script>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #000;
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+      }
 
+      #main-iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+
+      .telegram-btn {
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        background: linear-gradient(135deg, #1e88e5, #1565c0);
+        padding: 10px 16px;
+        border-radius: 14px;
+        text-decoration: none;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 600;
+        font-family: Arial, sans-serif;
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
+      }
