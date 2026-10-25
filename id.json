@@ -628,8 +628,18 @@
       "iframeSrc": "https://allrounder3-0.pages.dev/cricket/tnt",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt"
-   }
+   },
+    {
+    "id": "H1SD",
+    "name": "Star Sports 1 Hindi",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v4.pages.dev/star.html?id=H1SD",
+    "category": "Sports",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=H1SD",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=H1SD",
+    }
 ]
+  
   
 
   
