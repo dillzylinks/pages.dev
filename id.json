@@ -42,5 +42,18 @@
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-21T21:28:30.002Z"
-  }
+  },
+   {
+      "id": "IOS",
+      "name": "IOS - iPhone And iPad Friendly, Smooth Playback",
+      "type": "iframe",
+      "iframeSrc": "https://india-vs-nz.pages.dev/player/PR?url=https://akamaii.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1792859002~acl=/*~id=11468515441064555412790558121845~hmac=62099a46082c1f0bbaabe51a363a829599f67840eb579a411f4c8bf5bd187fb2",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=IOS",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=IOS",
+      "category": "Cricket",
+      "logourl": "",
+      "updated_at": "2026-10-24T07:54:44.334Z"
+      }
 ]
+  
+
