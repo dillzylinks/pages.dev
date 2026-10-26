@@ -526,13 +526,27 @@
     "logourl": "",
     "updated_at": "2026-10-21T22:08:28.906Z"
   },
-  {
-      "id": "STENT",
-      "name": "tamil",
+      {
+      "id": "Tamil",
+      "name": "Tamil - Live In Tamil, Enjoy Your Language",
       "type": "iframe",
       "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENT",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tamil",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=tamil",
-  }
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Tamil",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=Tamil",
+      "category": "Cricket",
+      "logourl": "",
+      "updated_at": "2026-10-21T21:28:33.412Z"
+    },
+    {
+      "id": "Telugu",
+      "name": "Telugu - Live In Telugu, Feel The Match",
+      "type": "iframe",
+      "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENTU",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Telugu",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=Telugu",
+      "category": "Cricket",
+      "logourl": "",
+      "updated_at": "2026-10-21T21:28:30.002Z"
+    }
 ]
 
