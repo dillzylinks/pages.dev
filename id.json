@@ -64,7 +64,19 @@
       "category": "Cricket",
       "logourl": "",
       "updated_at": "2026-10-23T22:08:35.037Z"
-        }
+    },
+        {
+      "id": "Exp",
+      "name": "Exp - Multi Quality HD, Works On All Devices",
+      "type": "iframe",
+      "iframeSrc": "https://matchdekho.pages.dev/player/drm?url=https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd&keys=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Exp",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=Exp",
+      "category": "Cricket",
+      "logourl": "",
+      "updated_at": "2026-10-18T09:00:21.000Z"
+     }
 ]
+
   
 
