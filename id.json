@@ -574,5 +574,15 @@
     "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HMLGQPBV",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-  } 
+  }, 
+      {
+      "id": "STENT",
+      "name": "Sony Sports 4 Tamil",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1793021534~exp=1793043134~acl=/*~hmac=34d29c774aa90d156e9d7a9801728d18b4a67fb8fa923affbbc442cc417dd172",
+      "cookie_expire": 1793043134,
+      "cookie_expire_ist": "27 Oct 2026, 01:02:14 AM IST",
+      "key_id": "0df5f800775c5979ab8aeaff28ee674b",
+      "key": "47dd1b9c8d40
+      }
 ]
