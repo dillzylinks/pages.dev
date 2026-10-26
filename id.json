@@ -527,12 +527,12 @@
     "updated_at": "2026-10-21T22:08:28.906Z"
   },
   {
-      "id": "tamil",
+      "id": "STENT",
       "name": "tamil",
       "type": "iframe",
-      "iframeSrc": "https://allroundersd.pages.dev/channel/Tamil",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=SS",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=SS"
+      "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENT",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tamil",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=tamil",
   }
 ]
 
