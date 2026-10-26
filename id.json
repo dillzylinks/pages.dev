@@ -525,5 +525,27 @@
     "category": "Cricket",
     "logourl": "",
     "updated_at": "2026-10-21T22:08:28.906Z"
-  }
+  },
+      {
+      "id": "STENT",
+      "name": "Sony Sports 4 Tamil",
+      "type": "iframe",
+      "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENT",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STENT",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=STENT",
+      "category": "Cricket",
+      "logourl": "",
+      "updated_at": "2026-10-21T21:28:33.412Z"
+    },
+    {
+      "id": "STENTU",
+      "name": "Sony Sports 4 Telugu",
+      "type": "iframe",
+      "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENTU",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STENTU",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=STENTU",
+      "category": "Cricket",
+      "logourl": "",
+      "updated_at": "2026-10-21T21:28:30.002Z"
+    }
 ]
