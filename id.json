@@ -122,6 +122,14 @@
       "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HKDPRJRS",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+    {
+    "id": "kannada",
+    "name": "Kannada",
+    "type": "iframe",
+    "iframeSrc": "https://sportlink10-ajp.pages.dev/star?id=3585"
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=kannada",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=kannada"
     }
 ]
 
