@@ -43,7 +43,14 @@
     "logourl": "",
     "updated_at": "2026-10-21T21:28:30.002Z"
   },
+      {
+      "id": "kannada",
+      "name": "kan-z",
+      "type": "iframe",
+      "iframeSrc": "https://sportlink10-ajp.pages.dev/star6?id=sony-sports-ten-4-kannada",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=kannada",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=kannada"
+      }
 ]
-
   
 
