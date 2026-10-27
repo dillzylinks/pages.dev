@@ -106,6 +106,22 @@
       "iframeSrc": "https://allrounder-live12.pages.dev/channel/fox1",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=fox",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=fox"
+    },
+    {
+      "id": "PAKVSL",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HN2PT7BB",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+    {
+      "id": "AUSVSA",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HKDPRJRS",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     }
 ]
 
