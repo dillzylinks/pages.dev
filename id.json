@@ -43,39 +43,6 @@
     "logourl": "",
     "updated_at": "2026-10-21T21:28:30.002Z"
   },
-   {
-      "id": "IOS",
-      "name": "IOS - iPhone And iPad Friendly, Smooth Playback",
-      "type": "iframe",
-      "iframeSrc": "https://india-vs-nz.pages.dev/player/PR?url=https://akamaii.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1792859002~acl=/*~id=11468515441064555412790558121845~hmac=62099a46082c1f0bbaabe51a363a829599f67840eb579a411f4c8bf5bd187fb2",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=IOS",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=IOS",
-      "category": "Cricket",
-      "logourl": "",
-      "updated_at": "2026-10-24T07:54:44.334Z"
-      },
-        {
-      "id": "TNT",
-      "name": "TNT - Live Events From Discovery Plus",
-      "type": "iframe",
-      "iframeSrc": "https://cricbox.pages.dev/player/drm?url=https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd&keys=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=TNT",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=TNT",
-      "category": "Cricket",
-      "logourl": "",
-      "updated_at": "2026-10-23T22:08:35.037Z"
-    },
-        {
-      "id": "Exp",
-      "name": "Exp - Multi Quality HD, Works On All Devices",
-      "type": "iframe",
-      "iframeSrc": "https://matchdekho.pages.dev/player/drm?url=https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd&keys=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Exp",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=Exp",
-      "category": "Cricket",
-      "logourl": "",
-      "updated_at": "2026-10-18T09:00:21.000Z"
-     }
 ]
 
   
