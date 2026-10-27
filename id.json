@@ -43,13 +43,14 @@
     "logourl": "",
     "updated_at": "2026-10-21T21:28:30.002Z"
   },
-  {
-      "id": "sony-liv",
-      "name": "Star Sports Hindi",
+  
+    {
+      "id": "ios",
+      "name": "Appel Wale",
       "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/sony-2",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+      "iframeSrc": "https://allrounder-live12.pages.dev/hotstar",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=ios",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=ios"
     },
     {
       "id": "willow",
