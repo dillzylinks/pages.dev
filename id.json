@@ -82,7 +82,24 @@
       "iframeSrc": "https://matcheslinkz.pages.dev/ten1hd",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+  {
+      "id": "primehin",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/Primehindi",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+    {
+      "id": "prime",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/Prime",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     }
 ]
+
   
 
