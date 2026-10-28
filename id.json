@@ -122,6 +122,12 @@
       "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HKDPRJRS",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+    {
+    "id": "kannada",
+    "name": "Kannada",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks.github.io/pages.dev/kannada.html"
     }
 ]
 
