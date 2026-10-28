@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stream</title>
+    <style>
+        body, html { 
+            margin: 0; 
+            padding: 0; 
+            width: 100%; 
+            height: 100%; 
+            overflow: hidden; 
+            background: #000; 
+        }
+        iframe { 
+            width: 100%; 
+            height: 100%; 
+            border: none; 
+        }
 
+        /* Jugad trick: Agar popup koi overlay div ya modal hai jo upar se load hota hai */
+        .modal, .popup, div[class*="popup"], div[class*="modal"], div[class*="telegram"] {
+            display: none !important;
+            visibility: hidden !important;
+            opacity: 0 !important;
+            pointer-events: none !important;
+        }
+    </style>
+</head>
+<body>
+
+    <iframe src="https://sportlinks10.pages.dev/?id=fc2" allowfullscreen></iframe>
+
+</body>
+</html>
