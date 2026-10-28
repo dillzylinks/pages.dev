@@ -124,8 +124,8 @@
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
     {
-    "id": "kannada",
-    "name": "Kannada",
+    "id": "4250526_ENG",
+    "name": "Fancode",
     "type": "iframe",
     "iframeSrc": "https://dillzylinks.github.io/pages.dev/kannada.html"
     },
