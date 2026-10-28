@@ -130,6 +130,22 @@
       "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HM8BVJ9X",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+    {
+      "id": "HIN",
+      "name": "Star Sports Hindi ",
+      "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=H2HD",
+      "category": "Cricket",
+      "logourl": "",
+      "updated_at": "2026-10-28T08:11:08.751Z"
+    },
+    {
+      "id": "ENG",
+      "name": "Star Sports English ",
+      "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=E2HD",
+      "category": "Cricket",
+      "logourl": "",
+      "updated_at": "2026-10-28T08:11:21.638Z"
     }
 ]
   
