@@ -146,6 +146,14 @@
       "category": "Cricket",
       "logourl": "",
       "updated_at": "2026-10-28T08:11:21.638Z"
+    },
+    {
+      "id": "hindi-2",
+      "name": "Star Sports Hindi",
+      "type": "iframe",
+      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/hindi-2",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     }
 ]
   
