@@ -154,6 +154,14 @@
       "iframeSrc": "https://allrounder3-0.pages.dev/cricket/hindi-2",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+     {
+      "id": "skycric",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/m3u8/?url=https://host-easy-deploy.lovable.app/m3u8/proxy/?url=https://river-3-343.rtbcdn.ru/stream/genetta-420.ntv.rutube.ru/_DIUbjxsnRx2dl4194L_-g/1793864191/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     }
 ]
   
