@@ -163,6 +163,17 @@
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
+      {
+    "id": "sony_ten_4_kan",
+    "name": "Sony Ten 4 Kannada",
+    "type": "iframe",
+    "iframeSrc": "https://proxy-stream-taupe.vercel.app/api/proxy?url=https%3A%2F%2Fjiotvpllive.cdn.jio.com%2Fbpk-tv%2FSonyTen4Kan_BTS%2FWDVLive%2Fdash%2FSonyTen4Kan_BTS-audio_98835_eng%3D98800-86079554615616.dash%3F__hdnea__%3Dst%3D1793314228%7Eexp%3D1793335828%7Eacl%3D%2Fbpk-tv%2FSonyTen4Kan_BTS%2FWDVLive%2F%2A%7Ehmac%3D956150c24fc6c0d5977b8fa7f6cbcfab899116157a6901d6dfe5d9071cb6f0c9",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=sony_ten_4_kan",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=sony_ten_4_kan",
+    "category": "Cricket",
+    "logoutrl": "",
+    "updated_at": "2026-10-30T07:28:00.000Z"
+      }
 ]
   
   
