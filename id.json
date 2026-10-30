@@ -163,18 +163,19 @@
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
-         {
-    "id": "sony_ten_4_kan",
-    "name": "Sony Ten 4 Kannada",
+    {
+    "id": "fancode",
+    "name": "FanCode Live",
     "type": "iframe",
-    "iframeSrc": "https://sportlinks10.pages.dev/?id=Kan",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=sony_ten_4_kan",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=sony_ten_4_kan",
+    "iframeSrc": "https://proxy-stream-a2lcc5nbt-dillzylinks.vercel.app/?url=https://in-mc-flive.fancode.com/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773474245~_GO=Generated~acl=/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/*~Signature=AR77L-Yyr9Cdj5X_0so3HpmxTUDWXrASgqUxhTGBOrJaU6SPgB5oUrj5FOVZ7FqeaDZnyCZIHYhGDYKbrr-wcsI214oJ",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=fancode",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=fancode",
     "category": "Cricket",
     "logoutrl": "",
-    "updated_at": "2026-10-30T08:37:00.000Z"
-         }
+    "updated_at": "2026-10-30T10:30:00.000Z"
+    }
 ]
+  
   
 
   
