@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Player</title>
+    <!-- Shaka Player Compiled Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.5/shaka-player.compiled.js"></script>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            overflow: hidden;
+            font-family: sans-serif;
+        }
+        #video-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+        video {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+        .telegram-btn {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background: #0088cc;
+            color: #fff;
+            padding: 8px 15px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            z-index: 10;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+    </style>
+</head>
+<body>
+
+    <div id="video-container">
+        <a href="https://t.me/+GVzLKNGz_OZlNmU1" target="_blank" class="telegram-btn">
+            ✈️ Join @Dillzylinks
+        </a>
+        <video id="video-player" autoplay controls></video>
+    </div>
+
+    <script>
+        async function initPlayer() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const streamId = urlParams.get('id');
+
+            if (!streamId) {
+                document.body.innerHTML = '<h2 style="color:white; text-align:center; margin-top:20vh;">No ID provided</h2>';
+                return;
+            }
+
+            try {
+                const response = await fetch('id.json');
+                const data = await response.json();
+                
+                let streamItem = null;
+                if (Array.isArray(data)) {
+                    streamItem = data.find(item => item.id === streamId);
+                } else if (data[streamId]) {
+                    streamItem = data[streamId];
+                }
+
+                if (!streamItem || (!streamItem.das_url && !streamItem.iframeSrc)) {
+                    document.body.innerHTML = '<h2 style="color:white; text-align:center; margin-top:20vh;">Stream not found</h2>';
+                    return;
+                }
+
+                const videoSource = streamItem.das_url || streamItem.iframeSrc;
+
+                const video = document.getElementById('video-player');
+                const player = new shaka.Player(video);
+
+                player.addEventListener('error', (event) => {
+                    console.error('Error code', event.detail.code, event.detail);
+                });
+
+                try {
+                    await player.load(videoSource);
+                    console.log('Video loaded successfully!');
+                } catch (e) {
+                    console.error('Error loading video', e);
+                }
+
+            } catch (err) {
+                console.error('Failed to load id.json', err);
+                document.body.innerHTML = '<h2 style="color:white; text-align:center; margin-top:20vh;">Error loading stream config</h2>';
+            }
+
+            try {
+                fetch(`https://hit-counter-theta.vercel.app/api/hit?key=${streamId}`);
+            } catch(e) {}
+        }
+
+        document.addEventListener('DOMContentLoaded', initPlayer);
+    </script>
+</body>
+</html>
