@@ -163,7 +163,7 @@
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
-       {
+         {
     "id": "sony_ten_4_kan",
     "name": "Sony Ten 4 Kannada",
     "type": "iframe",
@@ -173,7 +173,7 @@
     "category": "Cricket",
     "logoutrl": "",
     "updated_at": "2026-10-30T08:37:00.000Z"
-       } 
+         }
 ]
   
 
