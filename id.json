@@ -192,8 +192,17 @@
   "category": "Sports",
   "logourl": "",
   "updated_at": "2026-10-30T12:09:00.000Z"
-     }
+  },
+  {
+      "id": "kannada",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793384988~acl=/*~id=80544463850118442124985754858702~hmac=21063c5dc25983ed44ff98f1259d1c041125c069820aeec4facd965956876ec8",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    }
 ]
+      
   
   
 
