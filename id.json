@@ -206,7 +206,7 @@
       "get": "https://hit-counter-theta.vercel.app/api/get?key=willow-sports"
     },
      {
-      "id": "Sky sports",
+      "id": "Skysports",
        "name": "Sky sports newzealand",
        "type": "iframe",
        "inframesrc": "https://matcheslinkz.pages.dev/dd?url=https://tims-001.sytes.net/main/secure/982d32c3cef49a7e9dbe6a1b27b7549dab56b1c53332d6234b05ab0ef73a2c59/1793522734/skysport1-nz.m3u8"
