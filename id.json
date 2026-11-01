@@ -183,10 +183,10 @@
   "updated_at": "2026-10-30T12:09:00.000Z"
   },
   {
-    "id": "kannada",
-     "name": "",
+      "id": "slivkan",
+      "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://jiotvpllive.cdn.jio.com/bpk-tv/SonyTen4Kan_BTS/WDVLive/dash/SonyTen4Kan_BTS-video=3724000-1076107899029.dash?__hdnea__=st=1793502926~exp=1793524526~acl=/bpk-tv/SonyTen4Kan_BTS/WDVLive/*~hmac=660033b8d4e7416f0519d3d3730eda3172b5a070336cc0a572723148030c0dff",
+      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -204,13 +204,7 @@
       "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HP445XSZ",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow-sports",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=willow-sports"
-    },
-     {
-      "id": "Skysports",
-       "name": "Sky sports newzealand",
-       "type": "iframe",
-       "inframesrc": "https://matcheslinkz.pages.dev/dd?url=https://tims-001.sytes.net/main/secure/982d32c3cef49a7e9dbe6a1b27b7549dab56b1c53332d6234b05ab0ef73a2c59/1793522734/skysport1-nz.m3u8"
-     }
+    }
 ]
   
   
