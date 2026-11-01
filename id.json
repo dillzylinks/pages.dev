@@ -186,7 +186,7 @@
     "id": "kannada",
      "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793384988~acl=/*~id=80544463850118442124985754858702~hmac=21063c5dc25983ed44ff98f1259d1c041125c069820aeec4facd965956876ec8",
+      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://jiotvpllive.cdn.jio.com/bpk-tv/SonyTen4Kan_BTS/WDVLive/dash/SonyTen4Kan_BTS-video=3724000-1076107899029.dash?__hdnea__=st=1793502926~exp=1793524526~acl=/bpk-tv/SonyTen4Kan_BTS/WDVLive/*~hmac=660033b8d4e7416f0519d3d3730eda3172b5a070336cc0a572723148030c0dff",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
