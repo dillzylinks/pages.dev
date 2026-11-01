@@ -204,6 +204,14 @@
       "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HP445XSZ",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow-sports",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=willow-sports"
+    },
+    {
+      "id": "sony-liv",
+      "name": "Star Sports Hindi",
+      "type": "iframe",
+      "iframeSrc": "https://allrounder3-0.pages.dev/sony-2",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     }
 ]
   
