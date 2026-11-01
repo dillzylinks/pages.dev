@@ -212,6 +212,14 @@
       "iframeSrc": "https://allrounder3-0.pages.dev/sony-2",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+    {
+      "id": "hindi",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/s3",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     }
 ]
   
