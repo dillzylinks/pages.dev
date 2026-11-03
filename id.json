@@ -3,7 +3,7 @@
     "id": "Hindi",
     "name": "Hindi - India Vs New Zealand - Every Ball Covered",
     "type": "iframe",
-    "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STEN3",
+    "iframeSrc": "/api/stream?url=https://sonucdn-v5.pages.dev/star?id=STEN3",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Hindi",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=Hindi",
     "category": "Cricket",
@@ -14,7 +14,7 @@
     "id": "English",
     "name": "English - India Vs New Zealand  - Full HD Coverage",
     "type": "iframe",
-    "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STEN5",
+    "iframeSrc": "/api/stream?url=https://sonucdn-v5.pages.dev/star?id=STEN5",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=English",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=English",
     "category": "Cricket",
@@ -25,7 +25,7 @@
     "id": "STENT",
     "name": "Tamil - Live In Tamil, Enjoy Your Language",
     "type": "iframe",
-    "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENT",
+    "iframeSrc": "/api/stream?url=https://sonucdn-v5.pages.dev/star?id=STENT",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STENT",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=STENT",
     "category": "Cricket",
@@ -36,7 +36,7 @@
     "id": "STENTU",
     "name": "Telugu - Live In Telugu, Feel The Match",
     "type": "iframe",
-    "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STENTU",
+    "iframeSrc": "/api/stream?url=https://sonucdn-v5.pages.dev/star?id=STENTU",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STENTU",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=STENTU",
     "category": "Cricket",
@@ -47,7 +47,7 @@
       "id": "ios",
       "name": "Appel Wale",
       "type": "iframe",
-      "iframeSrc": "https://allrounder-live12.pages.dev/hotstar",
+      "iframeSrc": "/api/stream?url=https://allrounder-live12.pages.dev/hotstar",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=ios",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=ios"
     },
@@ -55,7 +55,7 @@
       "id": "willow",
       "name": "Willow",
       "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/willow",
+      "iframeSrc": "/api/stream?url=https://allrounder3-0.pages.dev/cricket/willow",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=willow"
     },
@@ -63,7 +63,7 @@
       "id": "tnt",
       "name": "TNT Sports",
       "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/tnt",
+      "iframeSrc": "/api/stream?url=https://allrounder3-0.pages.dev/cricket/tnt",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt"
     },
@@ -71,7 +71,7 @@
       "id": "ten3ios",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/ten3hd",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/ten3hd",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -79,7 +79,7 @@
       "id": "ten5ios",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/ten1hd",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/ten1hd",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -87,7 +87,7 @@
       "id": "primehin",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/Primehindi",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/Primehindi",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -95,7 +95,7 @@
       "id": "prime",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/Prime",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/Prime",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -103,7 +103,7 @@
       "id": "fox",
       "name": "Fox Cricket 501",
       "type": "iframe",
-      "iframeSrc": "https://allrounder-live12.pages.dev/channel/fox1",
+      "iframeSrc": "/api/stream?url=https://allrounder-live12.pages.dev/channel/fox1",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=fox",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=fox"
     },
@@ -111,7 +111,7 @@
       "id": "PAKVSL",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HN2PT7BB",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/adfree?id=B0HN2PT7BB",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -119,7 +119,7 @@
       "id": "AUSVSA",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HKDPRJRS",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/adfree?id=B0HKDPRJRS",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -127,14 +127,14 @@
       "id": "WPL",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HM8BVJ9X",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/adfree?id=B0HM8BVJ9X",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
     {
       "id": "HIN",
       "name": "Star Sports Hindi ",
-      "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=H2HD",
+      "iframeSrc": "/api/stream?url=https://sonucdn-v5.pages.dev/star?id=H2HD",
       "category": "Cricket",
       "logourl": "",
       "updated_at": "2026-10-28T08:11:08.751Z"
@@ -142,7 +142,7 @@
     {
       "id": "ENG",
       "name": "Star Sports English ",
-      "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=E2HD",
+      "iframeSrc": "/api/stream?url=https://sonucdn-v5.pages.dev/star?id=E2HD",
       "category": "Cricket",
       "logourl": "",
       "updated_at": "2026-10-28T08:11:21.638Z"
@@ -151,7 +151,7 @@
       "id": "hindi-2",
       "name": "Star Sports Hindi",
       "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/hindi-2",
+      "iframeSrc": "/api/stream?url=https://allrounder3-0.pages.dev/cricket/hindi-2",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -159,7 +159,7 @@
       "id": "skycric",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/m3u8/?url=https://host-easy-deploy.lovable.app/m3u8/proxy/?url=https://river-3-343.rtbcdn.ru/stream/genetta-420.ntv.rutube.ru/_DIUbjxsnRx2dl4194L_-g/1793864191/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/m3u8/?url=https://host-easy-deploy.lovable.app/m3u8/proxy/?url=https://river-3-343.rtbcdn.ru/stream/genetta-420.ntv.rutube.ru/_DIUbjxsnRx2dl4194L_-g/1793864191/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -167,7 +167,7 @@
       "id": "HKSIXES",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://in-mc-flive.fancode.com/mumbai/4250313_english_hls_3ae34d44a950558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793426443~_GO=Generated~acl=/mumbai/4250313_english_hls_3ae34d44a950558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f0d_watcho_8962b746-d70f-40~Signature=ATFKiJs_qGYKJC-w1nc0z8yvQ4WDeg7d9E2ljuDDoLA3-3piBSeDVn8Xy5PVKmJ-8xNcVBYLWuNGNliAnpSL4k8oGCEI",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/dd?url=https://in-mc-flive.fancode.com/mumbai/4250313_english_hls_3ae34d44a950558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793426443~_GO=Generated~acl=/mumbai/4250313_english_hls_3ae34d44a950558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f0d_watcho_8962b746-d70f-40~Signature=ATFKiJs_qGYKJC-w1nc0z8yvQ4WDeg7d9E2ljuDDoLA3-3piBSeDVn8Xy5PVKmJ-8xNcVBYLWuNGNliAnpSL4k8oGCEI",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -175,7 +175,7 @@
   "id": "STEN2",
   "name": "Sony Sports 2 SD",
   "type": "iframe",
-  "iframeSrc": "https://sonucdn-v5.pages.dev/star?id=STEN2",
+  "iframeSrc": "/api/stream?url=https://sonucdn-v5.pages.dev/star?id=STEN2",
   "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN2",
   "get": "https://hit-counter-theta.vercel.app/api/get?key=STEN2",
   "category": "Sports",
@@ -186,14 +186,14 @@
       "id": "slivkan",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/dd?url=https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
     {
     "id": "HKSIXES",
     "name": "Live Match",
-    "iframeSrc": "https://dillzylinks.pages.dev/dd?url=https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
+    "iframeSrc": "/api/stream?url=https://dillzylinks.pages.dev/dd?url=https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -201,7 +201,7 @@
       "id": "willow-sports",
       "name": "Willow",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HP445XSZ",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/adfree?id=B0HP445XSZ",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow-sports",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=willow-sports"
     },
@@ -209,7 +209,7 @@
       "id": "sony-liv",
       "name": "Star Sports Hindi",
       "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/sony-2",
+      "iframeSrc": "/api/stream?url=https://allrounder3-0.pages.dev/sony-2",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -217,7 +217,7 @@
       "id": "hindi",
       "name": "",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/s3",
+      "iframeSrc": "/api/stream?url=https://matcheslinkz.pages.dev/s3",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     }
