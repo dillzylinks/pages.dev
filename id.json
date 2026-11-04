@@ -208,9 +208,9 @@
     },
     {
       "id": "hindi",
-      "name": "",
+      "name": "Star Sports Hindi",
       "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/s3",
+      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/sony-3",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
