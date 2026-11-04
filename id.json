@@ -269,6 +269,14 @@
       "iframeSrc": "https://allrounder3-0.pages.dev/eng",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=eng",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=eng"
+    },
+    {
+      "id": "BBL",
+      "name": "CNTV",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/FC1?id=4250395_ENG",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     }
 ]
     
