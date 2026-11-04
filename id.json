@@ -261,6 +261,14 @@
       "inframesrc": "https://india-vs-nz.pages.dev/?id=S3",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Hindi",
      "get": "https://hit-counter-theta.vercel.app/api/get?key=Hindi"
+    },
+    {
+      "id": "eng",
+      "name": "Star Sports Select",
+      "type": "iframe",
+      "iframeSrc": "https://allrounder3-0.pages.dev/eng",
+      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=eng",
+      "get": "https://hit-counter-theta.vercel.app/api/get?key=eng"
     }
 ]
     
