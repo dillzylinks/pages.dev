@@ -263,10 +263,16 @@
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
     {
-    "id": "892",
+    "id": "sonyhindi",
     "name": "Live Stream",
     "type": "iframe",
     "iframeSrc": "https://sportlink10-ajp.pages.dev/cc?id=892"
+    },
+    {
+    "id": "162",
+    "name": "Live Stream",
+    "type": "iframe",
+    "iframeSrc": "https://sportlink10-ajp.pages.dev/cc?id=162"
     }
 ]
     
