@@ -43,7 +43,7 @@
     "logourl": "",
     "updated_at": "2026-10-21T21:28:30.002Z"
   },
-    {
+  {
       "id": "ios",
       "name": "Appel Wale",
       "type": "iframe",
@@ -147,7 +147,7 @@
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
-        {
+    {
       "id": "HKSIXES",
       "name": "",
       "type": "iframe",
@@ -155,16 +155,16 @@
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
-     {
-  "id": "STEN2",
-  "name": "Sony Sports 2 SD",
-  "type": "iframe",
-  "iframeSrc": "https://sonucdn-v2.pages.dev/star?id=STEN2",
-  "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN2",
-  "get": "https://hit-counter-theta.vercel.app/api/get?key=STEN2",
-  "category": "Sports",
-  "logourl": "",
-  "updated_at": "2026-10-30T12:09:00.000Z"
+    {
+    "id": "STEN2",
+    "name": "Sony Sports 2 SD",
+    "type": "iframe",
+    "iframeSrc": "https://sonucdn-v2.pages.dev/star?id=STEN2",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN2",
+    "gedt": "https://hit-counter-theta.vercel.app/api/get?key=STEN2",
+     "category": "Sports",
+     "logourl": "",
+     "updated_at": "2026-10-30T12:09:00.000Z"
   },
   {
       "id": "slivkan",
