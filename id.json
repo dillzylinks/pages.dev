@@ -84,14 +84,6 @@
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
     {
-      "id": "fox",
-      "name": "Fox Cricket 501",
-      "type": "iframe",
-      "iframeSrc": "https://allrounder-live12.pages.dev/channel/fox1",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=fox",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=fox"
-    },
-    {
       "id": "PAKVSL",
       "name": "",
       "type": "iframe",
@@ -273,6 +265,12 @@
     "name": "Live Stream",
     "type": "iframe",
     "iframeSrc": "https://sportlink10-ajp.pages.dev/cc?id=162"
+    },
+    {
+    "id": "fox",
+    "name": "Fox501",
+    "type": "iframe",
+    "iframeSrc": "https://trend48.st/live-tv?ch=fox-sports-501"
     }
 ]
     
