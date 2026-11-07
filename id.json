@@ -261,6 +261,15 @@
       "iframeSrc": "https://matcheslinkz.pages.dev/FC1?id=4250395_ENG",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
+    },
+    {
+  "id": "STEN3",
+  "name": "Live Stream",
+  "type": "iframe",
+  "iframeSrc": "https://tv-47i.pages.dev/?id=STEN3",
+  "category": "Cricket",
+  "logourl": "",
+  "updated_at": "2026-11-07T00:00:00.000Z"
     }
 ]
     
