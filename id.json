@@ -271,7 +271,13 @@
     "name": "Fox501",
     "type": "iframe",
     "iframeSrc": "https://trend48.st/live-tv?ch=fox-sports-501"
-    }
+    },
+    {
+    "id": "Kan",
+    "name": "kannada commentary",
+    "type": "iframe",
+    "iframeSrc": "https://sportlink-json.pages.dev/s4k"
+  }
 ]
     
   
