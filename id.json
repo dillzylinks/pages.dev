@@ -275,7 +275,23 @@
     "name": "Ind vs Nz Match Sony Sports 1",
     "type": "iframe",
     "iframeSrc": "https://sportlink10-ajp.pages.dev/cc?id=162"
-  }
+   },
+  {
+      "id": "ENGVSAUS",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/w2",
+      "hit": "",
+      "get": ""
+    },
+    {
+      "id": "ENGVSAUS2",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": "https://matcheslinkz.pages.dev/ww",
+      "hit": "",
+      "get": ""
+    }
 ]
     
   
