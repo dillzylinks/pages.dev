@@ -269,6 +269,12 @@
     "name": "Ind vs Nz Match Sony Sports 4 Kan b",
     "type": "iframe",
     "iframeSrc": "https://sportlink-json.pages.dev/s4k"
+   },
+   {
+    "id": "Eng",
+    "name": "Ind vs Nz Match Sony Sports 1",
+    "type": "iframe",
+    "iframeSrc": "https://sportlink10-ajp.pages.dev/cc?id=162"
   }
 ]
     
