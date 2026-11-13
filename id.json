@@ -299,7 +299,13 @@
       "iframeSrc": "https://matcheslinkz.pages.dev/wad",
       "hit": "",
       "get": ""
-    }
+    },
+    {
+    "id": "npl",
+    "name": "Ind vs Nz Match Sony Sports 1",
+    "type": "iframe",
+    "iframeSrc": "https://sportlink-json.pages.dev/npl"
+  }
 ]
     
   
