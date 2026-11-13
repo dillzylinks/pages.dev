@@ -24,6 +24,12 @@
     "iframeSrc": "https://dillzylinks.pages.dev/?id=STENTU"
   },
   {
+    "id": "Kannada",
+    "name": "Ind vs Nz Match Sony Sports 4",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks.pages.dev/?id=STENK"
+   },
+   {
       "id": "ios",
       "name": "Appel Wale",
       "type": "iframe",
@@ -64,46 +70,6 @@
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
     {
-      "id": "PAKVSL",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HN2PT7BB",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "AUSVSA",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HKDPRJRS",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "WPL",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HM8BVJ9X",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "HIN",
-      "name": "Star Sports Hindi ",
-      "iframeSrc": "https://sonucdn-v2.pages.dev/star?id=H2HD",
-      "category": "Cricket",
-      "logourl": "",
-      "updated_at": "2026-10-28T08:11:08.751Z"
-    },
-    {
-      "id": "ENG",
-      "name": "Star Sports English ",
-      "iframeSrc": "https://sonucdn-v2.pages.dev/star?id=E2HD",
-      "category": "Cricket",
-      "logourl": "",
-      "updated_at": "2026-10-28T08:11:21.638Z"
-    },
-    {
       "id": "hindi-2",
       "name": "Star Sports Hindi",
       "type": "iframe",
@@ -131,28 +97,7 @@
     "id": "STEN2",
     "name": "Sony Sports 2 SD",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN2",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STEN2",
-    "gedt": "https://hit-counter-theta.vercel.app/api/get?key=STEN2",
-     "category": "Sports",
-     "logourl": "",
-     "updated_at": "2026-10-30T12:09:00.000Z"
-  },
-  {
-      "id": "slivkan",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-     {
-      "id": "willow-sports",
-      "name": "Willow",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HP445XSZ",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow-sports",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=willow-sports"
+    "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN2"
     },
     {
       "id": "sony-liv",
@@ -169,54 +114,6 @@
       "iframeSrc": "https://allrounder3-0.pages.dev/cricket/sony-3",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-        {
-      "id": "sliveng",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/master.m3u8?hdnea=exp=1793556343~acl=/*~id=4efabc77ca8b4e2f60dd091430f0fd26-1793513140080~hmac=e25ac4d43426c52b90fa4a40ec1f5187ba25e5d6fcf016fca77618b9d8b6059c",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "slivhin",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://liveakdai.slivcdn.com/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "slivtam",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://liveakdai.slivcdn.com/hls/live/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "slivtel",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://liveakdai.slivcdn.com/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "S3",
-      "name": "",
-      "type": "iframe",
-      "inframesrc": "https://india-vs-nz.pages.dev/?id=S3",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Hindi",
-     "get": "https://hit-counter-theta.vercel.app/api/get?key=Hindi"
-    },
-    {
-      "id": "eng",
-      "name": "Star Sports Select",
-      "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/eng",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=eng",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=eng"
     },
     {
       "id": "BBL",
@@ -245,18 +142,6 @@
     "iframeSrc": "https://trend48.st/live-tv?ch=fox-sports-501"
     },
     {
-    "id": "Kan",
-    "name": "Ind vs Nz Match Sony Sports 4 Kan b",
-    "type": "iframe",
-    "iframeSrc": "https://sportlink-json.pages.dev/s4k"
-   },
-   {
-    "id": "Eng",
-    "name": "Ind vs Nz Match Sony Sports 1",
-    "type": "iframe",
-    "iframeSrc": "https://sportlink10-ajp.pages.dev/cc?id=162"
-   },
-  {
       "id": "ENGVSAUS",
       "name": "",
       "type": "iframe",
