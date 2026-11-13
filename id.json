@@ -3,45 +3,25 @@
     "id": "Hindi",
     "name": "Hindi - India Vs New Zealand - Every Ball Covered",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN3",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=Hindi",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=Hindi",
-    "category": "Cricket",
-    "logourl": "",
-    "updated_at": "2026-10-21T22:08:43.055Z"
+    "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN3"
   },
   {
     "id": "English",
     "name": "English - India Vs New Zealand  - Full HD Coverage",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN5",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=English",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=English",
-    "category": "Cricket",
-    "logourl": "",
-    "updated_at": "2026-10-21T22:08:28.906Z"
+    "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN5"
   },
   {
     "id": "STENT",
     "name": "Tamil - Live In Tamil, Enjoy Your Language",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=STENT",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STENT",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=STENT",
-    "category": "Cricket",
-    "logourl": "",
-    "updated_at": "2026-10-21T21:28:33.412Z"
+    "iframeSrc": "https://dillzylinks.pages.dev/?id=STENT"
   },
   {
     "id": "STENTU",
     "name": "Telugu - Live In Telugu, Feel The Match",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=STENTU",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=STENTU",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=STENTU",
-    "category": "Cricket",
-    "logourl": "",
-    "updated_at": "2026-10-21T21:28:30.002Z"
+    "iframeSrc": "https://dillzylinks.pages.dev/?id=STENTU"
   },
   {
       "id": "ios",
