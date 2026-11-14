@@ -39,9 +39,9 @@
     },
     {
       "id": "willow",
-      "name": "Willow",
+      "name": "Willow by cricbuzz",
       "type": "iframe",
-      "iframeSrc": "dillzylinks2.pages.dev/?Willow"
+      "iframeSrc": "dillzylinks2.pages.dev/?id=willow"
     },
     {
       "id": "tnt",
