@@ -38,12 +38,10 @@
       "get": "https://hit-counter-theta.vercel.app/api/get?key=ios"
     },
     {
-      "id": "willow",
+      "id": "Willow",
       "name": "Willow",
       "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/willow",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=willow",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=willow"
+      "iframeSrc": "dillzylinks2.pages.dev/? Willow"
     },
     {
       "id": "tnt",
