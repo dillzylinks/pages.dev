@@ -38,7 +38,7 @@
       "get": "https://hit-counter-theta.vercel.app/api/get?key=ios"
     },
     {
-      "id": "Willow",
+      "id": "willow",
       "name": "Willow",
       "type": "iframe",
       "iframeSrc": "dillzylinks2.pages.dev/?Willow"
