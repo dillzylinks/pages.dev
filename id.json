@@ -30,157 +30,28 @@
     "iframeSrc": "https://dillzylinks.pages.dev/?id=STENK"
    },
    {
-      "id": "ios",
-      "name": "Appel Wale",
-      "type": "iframe",
-      "iframeSrc": "https://allrounder-live12.pages.dev/hotstar",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=ios",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=ios"
-    },
-    {
-      "id": "willow",
-      "name": "Willow by cricbuzz",
-      "type": "iframe",
-      "iframeSrc": "https://dillzylinks2.pages.dev/?id=willow"
-    },
-    {
-      "id": "tnt",
-      "name": "TNT Sports",
-      "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/tnt",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt"
-    },
-     {
-      "id": "primehin",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/Primehindi",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "prime",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/Prime",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "hindi-2",
-      "name": "Star Sports Hindi",
-      "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/hindi-2",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-     {
-      "id": "skycric",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/m3u8/?url=https://host-easy-deploy.lovable.app/m3u8/proxy/?url=https://river-3-343.rtbcdn.ru/stream/genetta-420.ntv.rutube.ru/_DIUbjxsnRx2dl4194L_-g/1793864191/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "HKSIXES",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/dd?url=https://in-mc-flive.fancode.com/mumbai/4250313_english_hls_3ae34d44a950558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793426443~_GO=Generated~acl=/mumbai/4250313_english_hls_3ae34d44a950558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f0d_watcho_8962b746-d70f-40~Signature=ATFKiJs_qGYKJC-w1nc0z8yvQ4WDeg7d9E2ljuDDoLA3-3piBSeDVn8Xy5PVKmJ-8xNcVBYLWuNGNliAnpSL4k8oGCEI",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-    "id": "STEN2",
-    "name": "Sony Sports 2 SD",
+    "id": "ios",
+    "name": "Appel Wale",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN2"
+    "iframeSrc": "https://allrounder-live12.pages.dev/hotstar",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=ios",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=ios"
     },
     {
-      "id": "sony-liv",
-      "name": "Star Sports Hindi",
-      "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/sony-2",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "hindi",
-      "name": "Star Sports Hindi",
-      "type": "iframe",
-      "iframeSrc": "https://allrounder3-0.pages.dev/cricket/sony-3",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-      "id": "BBL",
-      "name": "CNTV",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/FC1?id=4250395_ENG",
-      "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
-      "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-    },
-    {
-    "id": "892",
-    "name": "Live Stream",
+    "id": "willow",
+    "name": "Willow by cricbuzz",
     "type": "iframe",
-    "iframeSrc": "https://sportlink10-ajp.pages.dev/cc?id=892"
+    "iframeSrc": "https://dillzylinks2.pages.dev/?id=willow"
     },
     {
-    "id": "162",
-    "name": "Live Stream",
+    "id": "tnt",
+    "name": "TNT Sports",
     "type": "iframe",
-    "iframeSrc": "https://sportlink10-ajp.pages.dev/cc?id=162"
-    },
-    {
-    "id": "fox",
-    "name": "Fox501",
-    "type": "iframe",
-    "iframeSrc": "https://trend48.st/live-tv?ch=fox-sports-501"
-    },
-    {
-      "id": "ENGVSAUS",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/w2",
-      "hit": "",
-      "get": ""
-    },
-    {
-      "id": "ENGVSAUS2",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/ww",
-      "hit": "",
-      "get": ""
-    },
-  {
-      "id": "ENGVSAUS3",
-      "name": "",
-      "type": "iframe",
-      "iframeSrc": "https://matcheslinkz.pages.dev/wad",
-      "hit": "",
-      "get": ""
-    },
-    {
-    "id": "npl",
-    "name": "Ind vs Nz Match Sony Sports 1",
-    "type": "iframe",
-    "iframeSrc": "https://sportlink-json.pages.dev/npl"
-  }
+    "iframeSrc": "https://allrounder3-0.pages.dev/cricket/tnt",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt"
+    }
 ]
-    
-  
-  
-      
-  
-  
-
-  
-  
-  
-  
    
 
   
