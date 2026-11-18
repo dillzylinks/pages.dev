@@ -44,12 +44,16 @@
     "iframeSrc": "https://dillzylinks2.pages.dev/?id=willow"
     },
     {
-    "id": "tnt",
+    "id": "tnt1",
     "name": "TNT Sports",
     "type": "iframe",
-    "iframeSrc": "https://allrounder3-0.pages.dev/cricket/tnt",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=tnt",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=tnt"
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=tntsports1"
+    },
+    {
+    "id": "tnt2",
+    "name": "TNT Sports",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=tntsports2"
     }
 ]
    
