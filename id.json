@@ -29,14 +29,6 @@
     "type": "iframe",
     "iframeSrc": "https://dillzylinks.pages.dev/?id=STENK"
    },
-   {
-    "id": "ios",
-    "name": "Appel Wale",
-    "type": "iframe",
-    "iframeSrc": "https://allrounder-live12.pages.dev/hotstar",
-    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=ios",
-    "get": "https://hit-counter-theta.vercel.app/api/get?key=ios"
-    },
     {
     "id": "willow",
     "name": "Willow by cricbuzz",
@@ -44,10 +36,10 @@
     "iframeSrc": "https://dillzylinks2.pages.dev/?id=willow"
     },
     {
-    "id": "tnt1",
+    "id": "Tnt",
     "name": "TNT Sports",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks16.pages.dev/?id=tntsports1"
+    "iframeSrc": "https://dillzycreation-4s0.pages.dev/?Tntsports1"
     },
     {
     "id": "tnt2",
