@@ -52,7 +52,12 @@
     "name": "Willow by cricbuzz",
     "type": "iframe",
     "iframeSrc": "https://dillzy-9um.pages.dev/willow"
-    }
+    },
+    {
+    "id": "english",
+    "name": "English - India Vs New Zealand  - Full HD Coverage",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN2"
 ]
    
 
