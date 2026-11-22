@@ -58,6 +58,12 @@
     "name": "English - India Vs New Zealand  - Full HD Coverage",
     "type": "iframe",
     "iframeSrc": "https://dillzylinks.pages.dev/?id=STEN2"
+    },
+    {
+    "id": "Starzplay",
+    "name": "Starzplay - Full HD Coverage",
+    "type": "iframe",
+    "iframeSrc": "https://dillzycreates.pages.dev/Starzplay"
     }
 ]
    
