@@ -64,6 +64,12 @@
     "name": "Starzplay - Full HD Coverage",
     "type": "iframe",
     "iframeSrc": "https://dillzycreates.pages.dev/Starzplay"
+    },
+    {
+    "id": "ios",
+    "name": "TNT Sports",
+    "type": "iframe",
+    "iframeSrc": "https://dillzy2-0.pages.dev/?id=ios"
     }
 ]
    
