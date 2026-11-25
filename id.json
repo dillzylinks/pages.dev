@@ -70,7 +70,19 @@
     "name": "TNT Sports",
     "type": "iframe",
     "iframeSrc": "https://dillzy2-0.pages.dev/?id=ios"
-    }
+    },
+    {
+    "id": "U8Hindi",
+    "name": " Unite Sports Hindi ",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=hindi2"
+    },
+    {
+    "id": "Zeezest",
+    "name": "Zee Zest ILT 20 English Coverage",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=eng2"
+   },
 ]
    
 
