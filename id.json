@@ -36,6 +36,12 @@
     "iframeSrc": "https://dillzylinks16.pages.dev/?id=Willow"
   },
   {
+    "id": "willow2",
+    "name": "Willow by cricbuzz 2",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=Wc2"
+  },
+  {
     "id": "Tnt",
     "name": "TNT Sports",
     "type": "iframe",
