@@ -57,7 +57,7 @@
     "id": "Willowsports",
     "name": "Willow Sports Australia",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=WS"
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=WS"
   },
   {
     "id": "English2",
@@ -69,7 +69,7 @@
     "id": "Starzplay",
     "name": "Starzplay - Full HD Coverage",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=Sp"
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=Sp"
   },
   {
     "id": "Ios2",
@@ -87,18 +87,18 @@
     "id": "Zeezest",
     "name": "Zee Zest ILT 20 English Coverage",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=eng2"
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=eng2"
   },
   {
     "id": "Ptvsports",
     "name": "PTV Sports Bangladesh",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=Ptvsports"
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=Ptvsports"
   },
   {
     "id": "As",
     "name": "Action Sport Nepal",
     "type": "iframe",
-    "iframeSrc": "https://dillzylinks.pages.dev/?id=Actionsports"
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=Actionsports"
   }
 ]
