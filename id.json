@@ -88,5 +88,17 @@
     "name": "Zee Zest ILT 20 English Coverage",
     "type": "iframe",
     "iframeSrc": "https://dillzylinks16.pages.dev/?id=eng2"
-  }
+  },
+    {
+    "id": "Ptvsports",
+    "name": "PTV Sports Bangladesh",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=Ptvsports"
+  },
+    {
+    "id": "Actionsport",
+    "name": "Action Sport Nepal",
+    "type": "iframe",
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=Actionsports"
+  },
 ]
