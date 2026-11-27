@@ -100,5 +100,17 @@
     "name": "Action Sport Nepal",
     "type": "iframe",
     "iframeSrc": "https://dillzylinks16.pages.dev/?id=Actionsports"
+  },
+  {
+    "id": "Fancode",
+    "name": "Fancode HD",
+    "type": "iframe",
+    "inframesrc": "https://dillzylinks16.pages.dev/?id=Fancode"
+  },
+  {
+    "id": "tensports",
+    "name": "Ten Sports",
+    "type": "iframe",
+    "inframesrc": "https://dillzylinks16.pages.dev/?id=All"
   }
 ]
