@@ -105,12 +105,12 @@
     "id": "fancode",
     "name": "Fancode HD",
     "type": "iframe",
-    "inframesrc": "https://dillzylinks16.pages.dev/?id=Fancode"
+    "iframesrc": "https://dillzylinks16.pages.dev/?id=Fancode"
   },
   {
     "id": "tensports",
     "name": "Ten Sports",
     "type": "iframe",
-    "inframesrc": "https://dillzylinks16.pages.dev/?id=All"
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=All"
   }
 ]
