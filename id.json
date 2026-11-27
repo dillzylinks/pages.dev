@@ -105,7 +105,7 @@
     "id": "fancode",
     "name": "Fancode HD",
     "type": "iframe",
-    "iframesrc": "https://dillzylinks16.pages.dev/?id=Fancode"
+    "iframeSrc": "https://dillzylinks16.pages.dev/?id=Fancode"
   },
   {
     "id": "tensports",
